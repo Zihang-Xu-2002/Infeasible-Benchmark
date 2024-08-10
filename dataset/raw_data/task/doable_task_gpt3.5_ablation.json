@@ -1,0 +1,1602 @@
+[
+    {
+        "prompt": "Design a logo for a new startup.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a workout routine for beginners.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare and contrast two historical events.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend a book for improving time management skills.",
+        "category": 5
+    },
+    {
+        "prompt": "Outline the process of making homemade pizza.",
+        "category": 5
+    },
+    {
+        "prompt": "List healthy snack options for a road trip.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze a famous painting and its symbolism.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a budget plan for a college student.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of artificial intelligence.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend sustainable practices for reducing plastic waste.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a floor plan for a small apartment.",
+        "category": 5
+    },
+    {
+        "prompt": "List the benefits of learning a new language.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a marketing campaign for a new product.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend strategies for effective studying.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the impact of technology on society.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a logo for a local charity organization.",
+        "category": 5
+    },
+    {
+        "prompt": "List tips for improving public speaking skills.",
+        "category": 5
+    },
+    {
+        "prompt": "Outline the process of brewing coffee.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the theory of evolution.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend healthy meal prep ideas for busy professionals.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a workout routine for flexibility.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend strategies for stress management.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the factors affecting climate change.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a vision board for personal goals.",
+        "category": 5
+    },
+    {
+        "prompt": "List tips for improving sleep quality.",
+        "category": 5
+    },
+    {
+        "prompt": "Outline the process of creating a podcast.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the benefits of meditation.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend ways to reduce food waste at home.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a poster for a community event.",
+        "category": 5
+    },
+    {
+        "prompt": "List techniques for creative writing.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the principles of sustainable living.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a recipe for a healthy smoothie.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend strategies for improving productivity.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the impact of social media influencers.",
+        "category": 5
+    },
+    {
+        "prompt": "List ways to improve communication skills.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of ethical leadership.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the benefits of yoga for physical health.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the effects of climate change on biodiversity.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of cultural diversity.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend ways to promote mental wellness.",
+        "category": 5
+    },
+    {
+        "prompt": "List techniques for effective conflict resolution.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the principles of ethical decision-making.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend strategies for overcoming procrastination.",
+        "category": 5
+    },
+    {
+        "prompt": "Outline the process of setting SMART goals.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend strategies for personal development.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a logo for an online fitness program.",
+        "category": 5
+    },
+    {
+        "prompt": "List tips for building a positive mindset.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a promotional video for a social cause.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend strategies for building resilience.",
+        "category": 5
+    },
+    {
+        "prompt": "List tips for practicing gratitude daily.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of social justice.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend ways to cultivate positive relationships.",
+        "category": 5
+    },
+    {
+        "prompt": "List techniques for effective goal setting.",
+        "category": 5
+    },
+    {
+        "prompt": "What is the capital of France?",
+        "category": 5
+    },
+    {
+        "prompt": "Critically review a recent movie you watched.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare traditional education to online learning.",
+        "category": 5
+    },
+    {
+        "prompt": "Predict the future trends of artificial intelligence technology.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the impact of globalization on local economies.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare and contrast different types of government systems.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the causes and consequences of income inequality.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the ethical implications of genetic engineering.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare and contrast different learning styles.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend three documentaries for exploring environmental issues.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the relationship between technology and social isolation.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend three strategies for effective communication in relationships.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the process of human digestion.",
+        "category": 5
+    },
+    {
+        "prompt": "Predict the future of space exploration.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend three strategies for enhancing critical thinking skills.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of climate change adaptation.",
+        "category": 5
+    },
+    {
+        "prompt": "Predict the future of renewable energy technologies.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend ways to promote sustainable fashion practices.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the process of the water cycle.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend three strategies for effective leadership development.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify three common characteristics of mammals.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend a healthy breakfast recipe.",
+        "category": 5
+    },
+    {
+        "prompt": "Define the term \"sustainable development.\"",
+        "category": 5
+    },
+    {
+        "prompt": "Outline the major events of World War II.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze a famous speech in history.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the cultural significance of a traditional dance.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify key factors influencing consumer behavior.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend books for exploring different genres.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare various methods of renewable energy production.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the symbolism in a poem.",
+        "category": 5
+    },
+    {
+        "prompt": "Interpret a piece of classical music.",
+        "category": 5
+    },
+    {
+        "prompt": "Define the principles of effective communication.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the components of a healthy diet.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the role of ethics in business.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the elements of a successful marketing campaign.",
+        "category": 5
+    },
+    {
+        "prompt": "Interpret a famous quote by a philosopher.",
+        "category": 5
+    },
+    {
+        "prompt": "Define the concept of human rights.",
+        "category": 5
+    },
+    {
+        "prompt": "Propose solutions to address climate change.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the significance of space exploration.",
+        "category": 5
+    },
+    {
+        "prompt": "Define the concept of sustainable agriculture.",
+        "category": 5
+    },
+    {
+        "prompt": "Interpret a piece of modern literature.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the effects of pollution on ecosystems.",
+        "category": 5
+    },
+    {
+        "prompt": "Define the principles of supply chain management.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend strategies for fostering creativity.",
+        "category": 5
+    },
+    {
+        "prompt": "Define the concept of universal basic income.",
+        "category": 5
+    },
+    {
+        "prompt": "Propose solutions to address food insecurity.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare different methods of waste management.",
+        "category": 5
+    },
+    {
+        "prompt": "Provide tips for enhancing emotional intelligence.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the benefits of engaging in outdoor activities.",
+        "category": 5
+    },
+    {
+        "prompt": "Define the concept of corporate social responsibility.",
+        "category": 5
+    },
+    {
+        "prompt": "Propose solutions to address global poverty.",
+        "category": 5
+    },
+    {
+        "prompt": "Change the color of the background to blue.",
+        "category": 5
+    },
+    {
+        "prompt": "Correct the spelling mistakes in the paragraph.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the nouns in the sentence.",
+        "category": 5
+    },
+    {
+        "prompt": "Translate the text from English to Spanish.",
+        "category": 5
+    },
+    {
+        "prompt": "Generate an appropriate conclusion for the essay.",
+        "category": 5
+    },
+    {
+        "prompt": "Correct the verb tense in the sentence.",
+        "category": 5
+    },
+    {
+        "prompt": "Compose a response email to a customer query.",
+        "category": 5
+    },
+    {
+        "prompt": "Revise the sentence for clarity.",
+        "category": 5
+    },
+    {
+        "prompt": "Generate a summary of the research findings.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the difference between simile and metaphor.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the tone of the speech.",
+        "category": 5
+    },
+    {
+        "prompt": "Simplify the complex mathematical equation.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare and contrast two characters from a play.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the main idea of the paragraph.",
+        "category": 5
+    },
+    {
+        "prompt": "Correct the sentence structure for coherence.",
+        "category": 5
+    },
+    {
+        "prompt": "Convert the text to bullet points for presentation.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the key arguments in the debate.",
+        "category": 5
+    },
+    {
+        "prompt": "Summarize the plot of the movie.",
+        "category": 5
+    },
+    {
+        "prompt": "Revise the dialogue for natural flow.",
+        "category": 5
+    },
+    {
+        "prompt": "Create an outline for a speech.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare two different research methodologies.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the logical fallacies in the argument.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the character development in the story.",
+        "category": 5
+    },
+    {
+        "prompt": "Generate a thesis question for research.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a mind map of the concepts discussed.",
+        "category": 5
+    },
+    {
+        "prompt": "Generate a hypothesis for the experiment.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the themes in the short story.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare and contrast two different theories.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the irony in the situation.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the cultural references in the text.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a visual diagram of the process.",
+        "category": 5
+    },
+    {
+        "prompt": "Generate a discussion question for the topic.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the metaphor in the statement.",
+        "category": 5
+    },
+    {
+        "prompt": "Summarize the implications of the study.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the idiom in the expression.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of quantum computing.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend five books for learning basic French.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare and contrast different programming languages.",
+        "category": 5
+    },
+    {
+        "prompt": "Calculate the area under a curve using integration.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare traditional banking with online banking services.",
+        "category": 5
+    },
+    {
+        "prompt": "List the benefits of a balanced diet.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a playlist for relaxation and focus.",
+        "category": 5
+    },
+    {
+        "prompt": "Propose solutions to reduce traffic congestion in cities.",
+        "category": 5
+    },
+    {
+        "prompt": "Provide tips for improving indoor air quality.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare different methods of data encryption.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a haiku about the changing seasons.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend three healthy recipes for a balanced diet.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the influence of advertising on consumer behavior.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the process of recycling electronic waste.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the challenges and opportunities of remote work.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the ethical considerations of autonomous vehicles.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the benefits of integrating technology in healthcare.",
+        "category": 5
+    },
+    {
+        "prompt": "Predict the future of smart home technology.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a speech advocating for renewable energy sources.",
+        "category": 5
+    },
+    {
+        "prompt": "Predict the societal impacts of widespread automation.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the importance of biodiversity conservation.",
+        "category": 5
+    },
+    {
+        "prompt": "List five famous inventors and their contributions.",
+        "category": 5
+    },
+    {
+        "prompt": "Solve a quadratic equation for x.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the main components of a human cell.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the process of DNA replication.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare and contrast two major world religions.",
+        "category": 5
+    },
+    {
+        "prompt": "Solve a logic puzzle involving colors and shapes.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify different types of literary genres.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the key players in a historical event.",
+        "category": 5
+    },
+    {
+        "prompt": "Solve a Sudoku puzzle.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the process of protein synthesis in cells.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of cognitive dissonance.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the major geological features of a continent.",
+        "category": 5
+    },
+    {
+        "prompt": "Solve a system of equations algebraically.",
+        "category": 5
+    },
+    {
+        "prompt": "Calculate the velocity of an object in motion.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the process of weathering and erosion.",
+        "category": 5
+    },
+    {
+        "prompt": "Solve a coding challenge involving algorithms.",
+        "category": 5
+    },
+    {
+        "prompt": "Calculate the probability of a specific event occurring.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a character sketch for a fictional story.",
+        "category": 5
+    },
+    {
+        "prompt": "Solve a mathematical optimization problem.",
+        "category": 5
+    },
+    {
+        "prompt": "Evaluate the historical accuracy of a documentary.",
+        "category": 5
+    },
+    {
+        "prompt": "Calculate the square root of 144.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the principles of classical conditioning in psychology.",
+        "category": 5
+    },
+    {
+        "prompt": "Translate a famous quote from English to French.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the use of symbolism in political speeches.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the relationship between diet and mental health.",
+        "category": 5
+    },
+    {
+        "prompt": "List the first ten prime numbers.",
+        "category": 5
+    },
+    {
+        "prompt": "Provide a recipe for chocolate chip cookies.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the capital city of Australia.",
+        "category": 5
+    },
+    {
+        "prompt": "Convert 5 kilometers to miles.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of gravitational force.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the life cycle of a butterfly.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare and contrast mitosis and meiosis.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the structure of the human heart.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the causes of World War I.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare and contrast democracy and dictatorship.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the major bones in the human body.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the process of volcanic eruption.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of psychological theories.",
+        "category": 5
+    },
+    {
+        "prompt": "List the major events of the French Revolution.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the process of fossil formation.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of genetic variation.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the main types of economic systems.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the process of cellular respiration.",
+        "category": 5
+    },
+    {
+        "prompt": "Suggest ways to reduce carbon footprint.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the impact of social inequality on society.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the causes of the Great Depression.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the benefits of cultural exchange.",
+        "category": 5
+    },
+    {
+        "prompt": "Calculate the trajectory of a satellite orbiting Earth.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a workout routine targeting core strength.",
+        "category": 5
+    },
+    {
+        "prompt": "Develop a budget plan for a dream vacation.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a series of patterns for fabric prints.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a guide on sustainable gardening practices.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a speech for a graduation ceremony.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a concept for an interactive art installation.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a tutorial on basic photography techniques.",
+        "category": 5
+    },
+    {
+        "prompt": "Develop a plan for a neighborhood watch program.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a concept for an outdoor fitness park.",
+        "category": 5
+    },
+    {
+        "prompt": "Develop a strategy for promoting local tourism.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a visual timeline of major scientific discoveries.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a poster advocating for gender equality.",
+        "category": 5
+    },
+    {
+        "prompt": "Compose a playlist for a road trip.",
+        "category": 5
+    },
+    {
+        "prompt": "Craft a vision statement for a tech startup.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a workout challenge for a month.",
+        "category": 5
+    },
+    {
+        "prompt": "Propose a menu for a healthy dinner party.",
+        "category": 5
+    },
+    {
+        "prompt": "Craft a proposal for a community garden project.",
+        "category": 5
+    },
+    {
+        "prompt": "Craft a business plan for a small bakery.",
+        "category": 5
+    },
+    {
+        "prompt": "Craft a guide for creating a capsule wardrobe.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a plan for a virtual wellness retreat.",
+        "category": 5
+    },
+    {
+        "prompt": "Propose a plan for a nature photography workshop.",
+        "category": 5
+    },
+    {
+        "prompt": "Develop a concept for an art therapy program.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the process of cell division in living organisms.",
+        "category": 5
+    },
+    {
+        "prompt": "Develop a plan for a community clean-up initiative.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a playlist of uplifting songs for a workout session.",
+        "category": 5
+    },
+    {
+        "prompt": "Solve the following algebraic expression: 2(3x + 4) = 18.",
+        "category": 5
+    },
+    {
+        "prompt": "Summarize a political speech and its key points.",
+        "category": 5
+    },
+    {
+        "prompt": "Solve the inequality: 2x + 3 > 9.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the difference between prokaryotic and eukaryotic cells.",
+        "category": 5
+    },
+    {
+        "prompt": "Outline the process of decluttering and organizing spaces.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the major events of the American Civil War.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a script for a podcast series on sustainable living.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the main features of Gothic architecture and their cultural significance.",
+        "category": 5
+    },
+    {
+        "prompt": "Develop a plan for a virtual team-building activity.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the role of government in regulating technology companies.",
+        "category": 5
+    },
+    {
+        "prompt": "Evaluate the effectiveness of different parenting styles on child development.",
+        "category": 5
+    },
+    {
+        "prompt": "List tips for maintaining a healthy work-life balance.",
+        "category": 5
+    },
+    {
+        "prompt": "Develop a plan for organizing a charity fundraising event.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the characteristics of a successful leader in today's society.",
+        "category": 5
+    },
+    {
+        "prompt": "Predict the technological advancements in healthcare in the next decade.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the major organs of the human digestive system.",
+        "category": 5
+    },
+    {
+        "prompt": "Provide a summary of the main characters in \"Pride and Prejudice.\"",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the role of gender stereotypes in shaping social norms.",
+        "category": 5
+    },
+    {
+        "prompt": "Summarize the plot of the novel \"1984\" by George Orwell.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a set of greeting cards for various occasions.",
+        "category": 5
+    },
+    {
+        "prompt": "Summarize the main points of the article.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the importance of diversity and inclusion in organizations.",
+        "category": 5
+    },
+    {
+        "prompt": "Calculate the volume of a sphere given its radius.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of market segmentation in business.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a concept for an eco-friendly fashion line.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the role of empathy in building successful interpersonal relationships.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of game theory using a real-world example.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a mood board for a bohemian home decor style.",
+        "category": 5
+    },
+    {
+        "prompt": "Provide a step-by-step guide to creating a budget spreadsheet.",
+        "category": 5
+    },
+    {
+        "prompt": "Provide a summary of the main ideas in \"The Great Gatsby.\"",
+        "category": 5
+    },
+    {
+        "prompt": "Predict the future of sustainable fashion in the industry.",
+        "category": 5
+    },
+    {
+        "prompt": "Solve the trigonometric equation: sin(x) = 0.5.",
+        "category": 5
+    },
+    {
+        "prompt": "Evaluate the impact of social media on political discourse.",
+        "category": 5
+    },
+    {
+        "prompt": "Prepare a guide for beginner gardeners on growing herbs indoors.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a short play exploring themes of friendship and betrayal.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the process of blood clotting in the human body.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a dialogue between two fictional characters discussing a current social issue.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a logo for a mental health awareness campaign.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the different layers of the Earth's atmosphere.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend three ways to promote gender equality in the workplace.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the effects of urbanization on the environment.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the importance of mental health awareness in society.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a guide on reducing water consumption at home.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare and contrast the role of nature versus nurture in human development.",
+        "category": 5
+    },
+    {
+        "prompt": "Outline the process of composting at home.",
+        "category": 5
+    },
+    {
+        "prompt": "List the advantages and disadvantages of renewable energy sources.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a cover for a magazine focused on sustainability.",
+        "category": 5
+    },
+    {
+        "prompt": "Develop a plan for implementing remote work policies for a company.",
+        "category": 5
+    },
+    {
+        "prompt": "Outline the steps to take when starting a small business.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the process of writing a research paper from topic selection to publication.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the effects of air pollution on public health.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the role of the United Nations in global diplomacy.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify and discuss the key themes in Shakespeare's \"Hamlet.\"",
+        "category": 5
+    },
+    {
+        "prompt": "Create a plan for organizing a cluttered living space.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a concept for a futuristic cityscape.",
+        "category": 5
+    },
+    {
+        "prompt": "Generate questions for a quiz based on the content.",
+        "category": 5
+    },
+    {
+        "prompt": "Design an infographic showing the benefits of renewable energy sources.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a marketing campaign for promoting sustainable living practices.",
+        "category": 5
+    },
+    {
+        "prompt": "Calculate the area of a geometric shape given specific dimensions.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the process of meiosis and its role in sexual reproduction.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the impact of urban sprawl on biodiversity.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of digital citizenship in the digital age.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the main functions of the human respiratory system.",
+        "category": 5
+    },
+    {
+        "prompt": "Calculate the volume of a rectangular prism with dimensions 4x3x2.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the oxymoron in the phrase.",
+        "category": 5
+    },
+    {
+        "prompt": "Solve a trigonometry problem involving angles and side lengths.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a recipe for a nutritious salad.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the difference between a hypothesis and a theory.",
+        "category": 5
+    },
+    {
+        "prompt": "Propose a concept for an interactive online cooking class.",
+        "category": 5
+    },
+    {
+        "prompt": "Argue for or against the legalization of recreational marijuana use.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the impact of colonialism on indigenous populations.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a vision board for a travel bucket list.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a plan for a community tree-planting event.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the main components of the nervous system and their functions.",
+        "category": 5
+    },
+    {
+        "prompt": "Develop a recipe for a vegan-friendly dessert.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the process of plate tectonics and continental drift.",
+        "category": 5
+    },
+    {
+        "prompt": "List the main types of clouds in the sky.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a travel itinerary for a weekend getaway.",
+        "category": 5
+    },
+    {
+        "prompt": "Develop a plan for improving access to clean water in developing countries.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a playlist of top 10 popular songs of the decade.",
+        "category": 5
+    },
+    {
+        "prompt": "List five countries in Africa and their capital cities.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the cultural significance of the Taj Mahal in India.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify and discuss the major theories of personality development.",
+        "category": 5
+    },
+    {
+        "prompt": "Outline the steps to take in case of a natural disaster emergency.",
+        "category": 5
+    },
+    {
+        "prompt": "List five benefits of regular exercise on mental health.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend three ways to improve mental health in the workplace.",
+        "category": 5
+    },
+    {
+        "prompt": "Calculate the area of a triangle given its base and height.",
+        "category": 5
+    },
+    {
+        "prompt": "Evaluate the impact of online shopping on traditional retail stores.",
+        "category": 5
+    },
+    {
+        "prompt": "Solve the equation 2x + 4 = 10.",
+        "category": 5
+    },
+    {
+        "prompt": "Define the concept of cognitive bias and provide examples.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a plan for organizing a virtual book club.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the process of photosynthesis in plants.",
+        "category": 5
+    },
+    {
+        "prompt": "Predict how virtual reality will change entertainment in the future.",
+        "category": 5
+    },
+    {
+        "prompt": "Solve the equation: 3x + 5 = 17.",
+        "category": 5
+    },
+    {
+        "prompt": "Predict how technology will change the way we work in the future.",
+        "category": 5
+    },
+    {
+        "prompt": "Propose a plan for organizing a neighborhood movie night.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of blockchain technology in a simple way.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare and contrast traditional farming methods with modern agricultural practices.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a short script for a comedy skit.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the effects of social media on mental health.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a script for a science fiction podcast episode.",
+        "category": 5
+    },
+    {
+        "prompt": "Develop a strategy for increasing engagement on social media platforms.",
+        "category": 5
+    },
+    {
+        "prompt": "Outline the steps to create an effective social media marketing strategy.",
+        "category": 5
+    },
+    {
+        "prompt": "Critique a famous work of art based on its historical context.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a script for a short film about friendship.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the role of social media in shaping cultural norms and values.",
+        "category": 5
+    },
+    {
+        "prompt": "Compare and contrast the educational systems of two different countries.",
+        "category": 5
+    },
+    {
+        "prompt": "Find synonyms for the phrase \"climate change.\"",
+        "category": 5
+    },
+    {
+        "prompt": "Create a comprehensive guide to starting a sustainable lifestyle.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the economic theories of supply-side economics.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a mobile app interface for tracking daily water intake.",
+        "category": 5
+    },
+    {
+        "prompt": "Generate a list of arguments for and against space colonization.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the implications of privacy concerns in the digital age.",
+        "category": 5
+    },
+    {
+        "prompt": "Generate a list of recommended books for learning about different cultures.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a brochure for a hiking tour company.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a recipe for a plant-based meal.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a short story set in a post-apocalyptic world.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the process of how the human immune system functions.",
+        "category": 5
+    },
+    {
+        "prompt": "Predict potential scenarios for the future of work in a post-pandemic world.",
+        "category": 5
+    },
+    {
+        "prompt": "Develop a recipe for a unique fusion dish blending two cuisines.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the process of how sound travels through mediums.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify and explain the main causes of deforestation.",
+        "category": 5
+    },
+    {
+        "prompt": "Evaluate the pros and cons of telecommuting for employees.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a guide for beginners on meditation techniques.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a healthy meal plan for a family of four.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify three synonyms for the word \"excited\".",
+        "category": 5
+    },
+    {
+        "prompt": "Describe a typical day in the life of a professional athlete.",
+        "category": 5
+    },
+    {
+        "prompt": "Predict the implications of quantum computing on cybersecurity.",
+        "category": 5
+    },
+    {
+        "prompt": "Develop a social media content calendar for a fashion brand.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a script for an educational video on climate change.",
+        "category": 5
+    },
+    {
+        "prompt": "Calculate the area of a circle with a radius of 6 units.",
+        "category": 5
+    },
+    {
+        "prompt": "Evaluate the role of media in shaping public opinion.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a tutorial on basic car maintenance for beginners.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a dialogue between two historical figures discussing a significant event.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a sonnet following a specific rhyme scheme.",
+        "category": 5
+    },
+    {
+        "prompt": "Calculate the perimeter of a rectangle with sides of 8 and 10 units.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the concept of the food chain in ecology.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend self-care practices for mental well-being.",
+        "category": 5
+    },
+    {
+        "prompt": "Evaluate the strengths and weaknesses of a scientific theory.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a script for a historical reenactment event.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the portrayal of gender roles in a movie.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a mock interview script for a job applicant in the tech industry.",
+        "category": 5
+    },
+    {
+        "prompt": "Discuss the history and significance of the Industrial Revolution.",
+        "category": 5
+    },
+    {
+        "prompt": "Describe the process of seed germination in plants.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the subject and predicate in the sentence.",
+        "category": 5
+    },
+    {
+        "prompt": "Define the term \"artificial neural network\" in a succinct manner.",
+        "category": 5
+    },
+    {
+        "prompt": "Recommend three books for someone interested in science fiction.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a logo for a music festival celebrating diversity.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a logo for an eco-friendly product.",
+        "category": 5
+    },
+    {
+        "prompt": "Identify the key elements of a successful business plan.",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the implications of climate change on global food security.",
+        "category": 5
+    },
+    {
+        "prompt": "List synonyms for the word \"happy.\"",
+        "category": 5
+    },
+    {
+        "prompt": "Analyze the role of technology in shaping modern communication.",
+        "category": 5
+    },
+    {
+        "prompt": "Rewrite a news article headline to increase reader engagement.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a step-by-step guide for assembling a piece of furniture.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a set of icons for a mobile weather app.",
+        "category": 5
+    },
+    {
+        "prompt": "Predict potential challenges in achieving global sustainable development goals.",
+        "category": 5
+    },
+    {
+        "prompt": "Outline the steps to conducting a successful job interview.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a timeline of a famous artist's life and works.",
+        "category": 5
+    },
+    {
+        "prompt": "Summarize a historical event and its significance.",
+        "category": 5
+    },
+    {
+        "prompt": "Propose solutions to address homelessness in urban areas.",
+        "category": 5
+    },
+    {
+        "prompt": "Create a mural depicting cultural diversity in a city.",
+        "category": 5
+    },
+    {
+        "prompt": "Outline the benefits and drawbacks of online education systems.",
+        "category": 5
+    },
+    {
+        "prompt": "Write a review of a recent technology gadget.",
+        "category": 5
+    },
+    {
+        "prompt": "Develop a plan for a community renewable energy project.",
+        "category": 5
+    },
+    {
+        "prompt": "Design a concept for a sustainable fashion runway show.",
+        "category": 5
+    },
+    {
+        "prompt": "Explain the importance of cybersecurity for businesses.",
+        "category": 5
+    }
+]

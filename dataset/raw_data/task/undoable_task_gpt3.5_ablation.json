@@ -1,0 +1,1602 @@
+[
+    {
+        "prompt": "Book tickets for a wildlife safari.",
+        "category": 2
+    },
+    {
+        "prompt": "Recommend a new skincare routine.",
+        "category": 2
+    },
+    {
+        "prompt": "Scuba dive in the ocean.",
+        "category": 1
+    },
+    {
+        "prompt": "Identify your emotional reactions to different situations.",
+        "category": 4
+    },
+    {
+        "prompt": "Recommend a movie for a family movie night.",
+        "category": 2
+    },
+    {
+        "prompt": "Calculate the interest on a loan.",
+        "category": 2
+    },
+    {
+        "prompt": "Create a virtual home tour using 3D imagery,",
+        "category": 3
+    },
+    {
+        "prompt": "Consider your approach to problem-solving.",
+        "category": 4
+    },
+    {
+        "prompt": "Check the upcoming movie releases.",
+        "category": 2
+    },
+    {
+        "prompt": "Find a tutorial on painting techniques.",
+        "category": 2
+    },
+    {
+        "prompt": "Examine your perception of honesty and integrity.",
+        "category": 4
+    },
+    {
+        "prompt": "Carve a pumpkin for Halloween,",
+        "category": 1
+    },
+    {
+        "prompt": "Reflect on your attachment style in relationships.",
+        "category": 4
+    },
+    {
+        "prompt": "Blow dust off an old book.",
+        "category": 1
+    },
+    {
+        "prompt": "Explore your beliefs about success.",
+        "category": 4
+    },
+    {
+        "prompt": "Consider your attitude towards risk-taking.",
+        "category": 4
+    },
+    {
+        "prompt": "Show me the best scuba diving spots.",
+        "category": 2
+    },
+    {
+        "prompt": "Lift weights at the gym.",
+        "category": 1
+    },
+    {
+        "prompt": "Ride a skateboard downhill,",
+        "category": 1
+    },
+    {
+        "prompt": "Analyze your reactions to witnessing injustice.",
+        "category": 4
+    },
+    {
+        "prompt": "Stomp through rain puddles.",
+        "category": 1
+    },
+    {
+        "prompt": "Swing on a swing set,",
+        "category": 1
+    },
+    {
+        "prompt": "Plant seeds in a garden,",
+        "category": 1
+    },
+    {
+        "prompt": "Analyze driving patterns in dashcam footage,",
+        "category": 3
+    },
+    {
+        "prompt": "Generate custom ringtone melodies,",
+        "category": 3
+    },
+    {
+        "prompt": "Order a meal delivery for dinner.",
+        "category": 2
+    },
+    {
+        "prompt": "Recommend a budgeting app for tracking expenses.",
+        "category": 2
+    },
+    {
+        "prompt": "Recall a moment when you doubted yourself.",
+        "category": 4
+    },
+    {
+        "prompt": "Identify martial arts techniques in a demonstration video,",
+        "category": 3
+    },
+    {
+        "prompt": "Identify landmarks in a travel vlog,",
+        "category": 3
+    },
+    {
+        "prompt": "Identify furniture styles in a home design video,",
+        "category": 3
+    },
+    {
+        "prompt": "Reflect on your ability to receive feedback.",
+        "category": 4
+    },
+    {
+        "prompt": "Research the best practices for sustainable gardening.",
+        "category": 2
+    },
+    {
+        "prompt": "Understand how you perceive yourself compared to others.",
+        "category": 4
+    },
+    {
+        "prompt": "Throw a dart at a target,",
+        "category": 1
+    },
+    {
+        "prompt": "Spin a globe and point randomly.",
+        "category": 1
+    },
+    {
+        "prompt": "Assemble a puzzle with 1000 pieces.",
+        "category": 1
+    },
+    {
+        "prompt": "Reflect on your tolerance for discomfort.",
+        "category": 4
+    },
+    {
+        "prompt": "Identify your triggers for anger.",
+        "category": 4
+    },
+    {
+        "prompt": "Transcribe a recorded conversation,",
+        "category": 3
+    },
+    {
+        "prompt": "Identify plant species in a botanical garden video,",
+        "category": 3
+    },
+    {
+        "prompt": "Generate a personalized book recommendation list,",
+        "category": 3
+    },
+    {
+        "prompt": "Ride a unicycle,",
+        "category": 1
+    },
+    {
+        "prompt": "Brush a horse's mane,",
+        "category": 1
+    },
+    {
+        "prompt": "Show me the best travel destinations for summer.",
+        "category": 2
+    },
+    {
+        "prompt": "Walk across a balance beam,",
+        "category": 1
+    },
+    {
+        "prompt": "Chop vegetables with a knife,",
+        "category": 1
+    },
+    {
+        "prompt": "Do a somersault on the grass.",
+        "category": 1
+    },
+    {
+        "prompt": "Acknowledge your response to feeling overwhelmed by responsibilities.",
+        "category": 4
+    },
+    {
+        "prompt": "Kick a can down the street,",
+        "category": 1
+    },
+    {
+        "prompt": "Order a new phone case.",
+        "category": 2
+    },
+    {
+        "prompt": "Think about your comfort with vulnerability.",
+        "category": 4
+    },
+    {
+        "prompt": "Dance to your favorite song.",
+        "category": 1
+    },
+    {
+        "prompt": "Cut out paper snowflakes.",
+        "category": 1
+    },
+    {
+        "prompt": "Order a new water filter for the fridge.",
+        "category": 2
+    },
+    {
+        "prompt": "Set a reminder to water the plants.",
+        "category": 2
+    },
+    {
+        "prompt": "Analyze audio patterns in music compositions,",
+        "category": 3
+    },
+    {
+        "prompt": "Paint a picture on a canvas,",
+        "category": 1
+    },
+    {
+        "prompt": "Analyze your ability to set boundaries.",
+        "category": 4
+    },
+    {
+        "prompt": "Book a ride to the airport.",
+        "category": 2
+    },
+    {
+        "prompt": "Open a door with a key,",
+        "category": 1
+    },
+    {
+        "prompt": "Identify food ingredients in a cooking demonstration video,",
+        "category": 3
+    },
+    {
+        "prompt": "Think about how you cope with uncertainty.",
+        "category": 4
+    },
+    {
+        "prompt": "Build a snowman in the winter.",
+        "category": 1
+    },
+    {
+        "prompt": "Leapfrog over another person.",
+        "category": 1
+    },
+    {
+        "prompt": "Wash a car with soap and water,",
+        "category": 1
+    },
+    {
+        "prompt": "Reflect on your sense of purpose.",
+        "category": 4
+    },
+    {
+        "prompt": "Build a sandcastle on the beach,",
+        "category": 1
+    },
+    {
+        "prompt": "Practice yoga for an hour.",
+        "category": 1
+    },
+    {
+        "prompt": "Open a jar of pickles.",
+        "category": 1
+    },
+    {
+        "prompt": "Evaluate your willingness to change.",
+        "category": 4
+    },
+    {
+        "prompt": "Create a virtual escape room game,",
+        "category": 3
+    },
+    {
+        "prompt": "Jog around the block for exercise.",
+        "category": 1
+    },
+    {
+        "prompt": "{Locate the closest ATM machine.},",
+        "category": 2
+    },
+    {
+        "prompt": "Squeeze through a narrow gap.",
+        "category": 1
+    },
+    {
+        "prompt": "Generate a themed photo collage,",
+        "category": 3
+    },
+    {
+        "prompt": "Blow a bubble gum bubble,",
+        "category": 1
+    },
+    {
+        "prompt": "Acknowledge your emotional reactions to personal achievements.",
+        "category": 4
+    },
+    {
+        "prompt": "Understand your sources of inspiration.",
+        "category": 4
+    },
+    {
+        "prompt": "Plant a tree in the ground,",
+        "category": 1
+    },
+    {
+        "prompt": "Load a dishwasher with dirty dishes,",
+        "category": 1
+    },
+    {
+        "prompt": "Recommend a new app for productivity.",
+        "category": 2
+    },
+    {
+        "prompt": "Do a fancy spin in ice skating.",
+        "category": 1
+    },
+    {
+        "prompt": "Find a local volunteer opportunity for community service.",
+        "category": 2
+    },
+    {
+        "prompt": "{Analyze MRI images for medical diagnosis},",
+        "category": 3
+    },
+    {
+        "prompt": "Find a tutorial on building a website.",
+        "category": 2
+    },
+    {
+        "prompt": "Create a voice-activated plant care guide,",
+        "category": 3
+    },
+    {
+        "prompt": "Analyze customer behavior in a retail store video,",
+        "category": 3
+    },
+    {
+        "prompt": "Skip down a path in the forest.",
+        "category": 1
+    },
+    {
+        "prompt": "Paint a fence with a brush,",
+        "category": 1
+    },
+    {
+        "prompt": "Zip line through a forest canopy.",
+        "category": 1
+    },
+    {
+        "prompt": "Balance on a tightrope,",
+        "category": 1
+    },
+    {
+        "prompt": "Show me the latest trends in interior design.",
+        "category": 2
+    },
+    {
+        "prompt": "Hit a tennis ball over the net.",
+        "category": 1
+    },
+    {
+        "prompt": "Describe how you manage stress and anxiety.",
+        "category": 4
+    },
+    {
+        "prompt": "Order a new pair of running shoes.",
+        "category": 2
+    },
+    {
+        "prompt": "Order a refill for my prescription medication.",
+        "category": 2
+    },
+    {
+        "prompt": "Feed ducks at the pond.",
+        "category": 1
+    },
+    {
+        "prompt": "Classify types of animals in a video,",
+        "category": 3
+    },
+    {
+        "prompt": "Row a boat in a lake,",
+        "category": 1
+    },
+    {
+        "prompt": "Mix ingredients for a smoothie.",
+        "category": 1
+    },
+    {
+        "prompt": "Ping pong a ball for a minute.",
+        "category": 1
+    },
+    {
+        "prompt": "Sand a piece of wood,",
+        "category": 1
+    },
+    {
+        "prompt": "Calculate the square footage of a room.",
+        "category": 2
+    },
+    {
+        "prompt": "Find a yoga class near me.",
+        "category": 2
+    },
+    {
+        "prompt": "Trim a hedge with shears,",
+        "category": 1
+    },
+    {
+        "prompt": "Reflect on your understanding of personal identity.",
+        "category": 4
+    },
+    {
+        "prompt": "Recognize your tendencies towards perfectionism.",
+        "category": 4
+    },
+    {
+        "prompt": "Consider your coping mechanisms during difficult times.",
+        "category": 4
+    },
+    {
+        "prompt": "Ski through a slalom course.",
+        "category": 1
+    },
+    {
+        "prompt": "Generate custom jingles for a radio station,",
+        "category": 3
+    },
+    {
+        "prompt": "Do a handstand.",
+        "category": 1
+    },
+    {
+        "prompt": "Schedule a car maintenance appointment.",
+        "category": 2
+    },
+    {
+        "prompt": "Tie a bow on a gift.",
+        "category": 1
+    },
+    {
+        "prompt": "Create a voice-activated recipe book,",
+        "category": 3
+    },
+    {
+        "prompt": "Hit a baseball with a bat,",
+        "category": 1
+    },
+    {
+        "prompt": "Show me today's horoscope.",
+        "category": 2
+    },
+    {
+        "prompt": "Race a toy car down a ramp.",
+        "category": 1
+    },
+    {
+        "prompt": "Change a tire on a car.",
+        "category": 1
+    },
+    {
+        "prompt": "Squeeze through a doggie door.",
+        "category": 1
+    },
+    {
+        "prompt": "Recommend a new book club to join.",
+        "category": 2
+    },
+    {
+        "prompt": "Play with a yo-yo,",
+        "category": 1
+    },
+    {
+        "prompt": "Roll down a grassy hill,",
+        "category": 1
+    },
+    {
+        "prompt": "Generate a playlist of nature sounds,",
+        "category": 3
+    },
+    {
+        "prompt": "Mix ingredients in a bowl for baking.",
+        "category": 1
+    },
+    {
+        "prompt": "Analyze body language in a recorded presentation,",
+        "category": 3
+    },
+    {
+        "prompt": "Acknowledge your weaknesses and strengths.",
+        "category": 4
+    },
+    {
+        "prompt": "Set a reminder to call the utility company.",
+        "category": 2
+    },
+    {
+        "prompt": "Reflect on your tendencies towards self-sabotage.",
+        "category": 4
+    },
+    {
+        "prompt": "Analyze your response to criticism.",
+        "category": 4
+    },
+    {
+        "prompt": "Check the traffic conditions for my commute.",
+        "category": 2
+    },
+    {
+        "prompt": "Identify your preferences in handling conflicts with others.",
+        "category": 4
+    },
+    {
+        "prompt": "Tattoo a temporary design on your arm.",
+        "category": 1
+    },
+    {
+        "prompt": "Recognize your facial expressions and their meanings.",
+        "category": 4
+    },
+    {
+        "prompt": "Identify dance genres in a dance competition video,",
+        "category": 3
+    },
+    {
+        "prompt": "Develop a virtual fashion show,",
+        "category": 3
+    },
+    {
+        "prompt": "Hop on a pogo ball,",
+        "category": 1
+    },
+    {
+        "prompt": "Analyze video footage for potential security threats,",
+        "category": 3
+    },
+    {
+        "prompt": "Generate a voice-activated fitness coach,",
+        "category": 3
+    },
+    {
+        "prompt": "Book a session with a career coach.",
+        "category": 2
+    },
+    {
+        "prompt": "Wear a pair of sunglasses,",
+        "category": 1
+    },
+    {
+        "prompt": "Paint your nails a bright color.",
+        "category": 1
+    },
+    {
+        "prompt": "Contemplate your attitude towards forgiveness.",
+        "category": 4
+    },
+    {
+        "prompt": "Blow bubbles with a wand,",
+        "category": 1
+    },
+    {
+        "prompt": "Balance a book on your head,",
+        "category": 1
+    },
+    {
+        "prompt": "Taste a spoonful of ice cream.",
+        "category": 1
+    },
+    {
+        "prompt": "Analyze bird migration patterns in drone footage,",
+        "category": 3
+    },
+    {
+        "prompt": "Think about your communication style.",
+        "category": 4
+    },
+    {
+        "prompt": "Check the status of my package delivery.",
+        "category": 2
+    },
+    {
+        "prompt": "Find a new recipe for a healthy dessert.",
+        "category": 2
+    },
+    {
+        "prompt": "Reflect on your leadership style.",
+        "category": 4
+    },
+    {
+        "prompt": "Jump off a diving board,",
+        "category": 1
+    },
+    {
+        "prompt": "Throw a football through a tire.",
+        "category": 1
+    },
+    {
+        "prompt": "Consider your role in interpersonal dynamics.",
+        "category": 4
+    },
+    {
+        "prompt": "Stir a pot of soup,",
+        "category": 1
+    },
+    {
+        "prompt": "Walk a dog in the park.",
+        "category": 1
+    },
+    {
+        "prompt": "Analyze how you handle conflicts.",
+        "category": 4
+    },
+    {
+        "prompt": "{Analyze weather patterns in satellite images},",
+        "category": 3
+    },
+    {
+        "prompt": "Weld two metal pieces together.",
+        "category": 1
+    },
+    {
+        "prompt": "Identify trending topics in social media posts,",
+        "category": 3
+    },
+    {
+        "prompt": "Create a soundboard for a podcast,",
+        "category": 3
+    },
+    {
+        "prompt": "Take a bite of an apple.",
+        "category": 1
+    },
+    {
+        "prompt": "Find a new workout routine.",
+        "category": 2
+    },
+    {
+        "prompt": "Shovel snow from a driveway,",
+        "category": 1
+    },
+    {
+        "prompt": "Skip stones on a lake,",
+        "category": 1
+    },
+    {
+        "prompt": "Squeeze fresh lemonade from lemons.",
+        "category": 1
+    },
+    {
+        "prompt": "Dodge obstacles in a race.",
+        "category": 1
+    },
+    {
+        "prompt": "Identify key moments in a sports game recording,",
+        "category": 3
+    },
+    {
+        "prompt": "Check the upcoming events in my city.",
+        "category": 2
+    },
+    {
+        "prompt": "Throw a ball in the air,",
+        "category": 1
+    },
+    {
+        "prompt": "Create a virtual pet simulation game,",
+        "category": 3
+    },
+    {
+        "prompt": "Create a digital mood board for interior design,",
+        "category": 3
+    },
+    {
+        "prompt": "Identify car brands in a car show footage,",
+        "category": 3
+    },
+    {
+        "prompt": "Analyze eye movements in a psychology experiment video,",
+        "category": 3
+    },
+    {
+        "prompt": "Examine your fears of the unknown.",
+        "category": 4
+    },
+    {
+        "prompt": "Generate a playlist of motivational speeches,",
+        "category": 3
+    },
+    {
+        "prompt": "Develop an interactive simulation of a historical battle.",
+        "category": 3
+    },
+    {
+        "prompt": "Jump on a trampoline,",
+        "category": 1
+    },
+    {
+        "prompt": "Hang a hammock between two trees,",
+        "category": 1
+    },
+    {
+        "prompt": "Push a boulder uphill.",
+        "category": 1
+    },
+    {
+        "prompt": "Help me troubleshoot my internet connection.",
+        "category": 2
+    },
+    {
+        "prompt": "Help me design a logo for my business.",
+        "category": 2
+    },
+    {
+        "prompt": "Analyze your reaction to feelings of shame.",
+        "category": 4
+    },
+    {
+        "prompt": "Find the best deals on kitchen appliances online.",
+        "category": 2
+    },
+    {
+        "prompt": "Recognize your patterns of behavior in relationships.",
+        "category": 4
+    },
+    {
+        "prompt": "Consider your willingness to seek help when needed.",
+        "category": 4
+    },
+    {
+        "prompt": "Hula hoop for one minute,",
+        "category": 1
+    },
+    {
+        "prompt": "Identify fashion trends in street style photography,",
+        "category": 3
+    },
+    {
+        "prompt": "Check for flight deals to Hawaii.",
+        "category": 2
+    },
+    {
+        "prompt": "Analyze your ability to practice self-compassion.",
+        "category": 4
+    },
+    {
+        "prompt": "Consider your capacity for empathy.",
+        "category": 4
+    },
+    {
+        "prompt": "Drive a nail into a tire.",
+        "category": 1
+    },
+    {
+        "prompt": "Graffiti a message on a wall.",
+        "category": 1
+    },
+    {
+        "prompt": "Hike up a mountain trail.",
+        "category": 1
+    },
+    {
+        "prompt": "Create a virtual art gallery tour,",
+        "category": 3
+    },
+    {
+        "prompt": "Check the availability of camping sites.",
+        "category": 2
+    },
+    {
+        "prompt": "Think about your reaction to unexpected events.",
+        "category": 4
+    },
+    {
+        "prompt": "Fight a martial arts opponent.",
+        "category": 1
+    },
+    {
+        "prompt": "Create a voice-activated language translation tool,",
+        "category": 3
+    },
+    {
+        "prompt": "Set a timer for 30 minutes.",
+        "category": 2
+    },
+    {
+        "prompt": "Sweep a floor with a broom,",
+        "category": 1
+    },
+    {
+        "prompt": "Calculate the tip for a $50 meal.",
+        "category": 2
+    },
+    {
+        "prompt": "Race on a go-kart track.",
+        "category": 1
+    },
+    {
+        "prompt": "Shoot a bow and arrow,",
+        "category": 1
+    },
+    {
+        "prompt": "Consider your levels of trust in others.",
+        "category": 4
+    },
+    {
+        "prompt": "Spin in a swivel chair,",
+        "category": 1
+    },
+    {
+        "prompt": "Consider your boundaries in relationships.",
+        "category": 4
+    },
+    {
+        "prompt": "Contemplate your decision-making process.",
+        "category": 4
+    },
+    {
+        "prompt": "Recognize your habits and how they influence you.",
+        "category": 4
+    },
+    {
+        "prompt": "Race in a steeplechase competition.",
+        "category": 1
+    },
+    {
+        "prompt": "Climb a set of stairs.",
+        "category": 1
+    },
+    {
+        "prompt": "Evaluate your level of self-confidence.",
+        "category": 4
+    },
+    {
+        "prompt": "Wash windows on a high-rise building.",
+        "category": 1
+    },
+    {
+        "prompt": "Schedule a doctor's appointment.",
+        "category": 2
+    },
+    {
+        "prompt": "Practice archery at a range.",
+        "category": 1
+    },
+    {
+        "prompt": "Run through a sprinkler,",
+        "category": 1
+    },
+    {
+        "prompt": "Create a virtual reality experience for historical events,",
+        "category": 3
+    },
+    {
+        "prompt": "Consider your level of self-awareness.",
+        "category": 4
+    },
+    {
+        "prompt": "Analyze a series of drawings for artistic style,",
+        "category": 3
+    },
+    {
+        "prompt": "Spin a basketball on your finger,",
+        "category": 1
+    },
+    {
+        "prompt": "Churn homemade ice cream by hand.",
+        "category": 1
+    },
+    {
+        "prompt": "Analyze chess strategies in tournament recordings,",
+        "category": 3
+    },
+    {
+        "prompt": "Tighten screws on a loose shelf.",
+        "category": 1
+    },
+    {
+        "prompt": "Hang curtains on a window.",
+        "category": 1
+    },
+    {
+        "prompt": "Calculate the exchange rate for Euro to Dollar.",
+        "category": 2
+    },
+    {
+        "prompt": "Analyze emotional expressions in therapy sessions,",
+        "category": 3
+    },
+    {
+        "prompt": "Create a voice-activated virtual assistant,",
+        "category": 3
+    },
+    {
+        "prompt": "Convert a speech into sign language,",
+        "category": 3
+    },
+    {
+        "prompt": "Hang a picture frame on a wall,",
+        "category": 1
+    },
+    {
+        "prompt": "Identify and censor sensitive content in videos,",
+        "category": 3
+    },
+    {
+        "prompt": "Analyze your decision-making process in high-stress situations.",
+        "category": 4
+    },
+    {
+        "prompt": "Do a headstand on a yoga mat.",
+        "category": 1
+    },
+    {
+        "prompt": "{Analyze underwater footage to identify marine life},",
+        "category": 3
+    },
+    {
+        "prompt": "Order a book from my favorite author for home delivery.",
+        "category": 2
+    },
+    {
+        "prompt": "Recommend a good audiobook for a long road trip.",
+        "category": 2
+    },
+    {
+        "prompt": "Consider your responses to experiences of failure and rejection.",
+        "category": 4
+    },
+    {
+        "prompt": "Analyze a thermal image and identify areas of heat loss in a building.",
+        "category": 3
+    },
+    {
+        "prompt": "Recognize your mental barriers and how to overcome them.",
+        "category": 4
+    },
+    {
+        "prompt": "Translate a series of abstract paintings into written descriptions.",
+        "category": 3
+    },
+    {
+        "prompt": "{Research the benefits of yoga practice.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Recognize emotions in a collection of audio recordings},",
+        "category": 3
+    },
+    {
+        "prompt": "{Identify and classify different species of fish in underwater videos},",
+        "category": 3
+    },
+    {
+        "prompt": "{Develop a motion capture animation for a character},",
+        "category": 3
+    },
+    {
+        "prompt": "{Find a good restaurant for a romantic dinner date.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Produce a realistic simulation of a weather phenomenon},",
+        "category": 3
+    },
+    {
+        "prompt": "{Research the best smartphone on the market.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Design a responsive website layout for a client},",
+        "category": 3
+    },
+    {
+        "prompt": "Consider your ability to reflect on your own behavior.",
+        "category": 4
+    },
+    {
+        "prompt": "Twirl in a circle on the grass.",
+        "category": 1
+    },
+    {
+        "prompt": "Book a session with a personal trainer for fitness assessment.",
+        "category": 2
+    },
+    {
+        "prompt": "Find a reliable daycare center for my toddler.",
+        "category": 2
+    },
+    {
+        "prompt": "Recommend a good podcast for staying updated on technology news.",
+        "category": 2
+    },
+    {
+        "prompt": "Flip a pancake in a frying pan,",
+        "category": 1
+    },
+    {
+        "prompt": "{Analyze X-ray images for medical conditions},",
+        "category": 3
+    },
+    {
+        "prompt": "Think about your identity and how it evolves.",
+        "category": 4
+    },
+    {
+        "prompt": "Translate a series of animal behaviors into written observations.",
+        "category": 3
+    },
+    {
+        "prompt": "{Find the best-rated coffee shop in the neighborhood.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Recommend a new restaurant that serves exotic cuisines.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Recognize and translate sign language gestures from video footage},",
+        "category": 3
+    },
+    {
+        "prompt": "{Find a reputable mechanic for car repairs.},",
+        "category": 2
+    },
+    {
+        "prompt": "Show me the top-rated Italian restaurants near my location.",
+        "category": 2
+    },
+    {
+        "prompt": "{Recognize and organize various breeds of dogs in pictures},",
+        "category": 3
+    },
+    {
+        "prompt": "Describe a situation where you were able to overcome a personal challenge.",
+        "category": 4
+    },
+    {
+        "prompt": "{Order groceries online for home delivery.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Produce an animated explainer video for a product launch},",
+        "category": 3
+    },
+    {
+        "prompt": "Analyze a series of cosmic events and predict future phenomena.",
+        "category": 3
+    },
+    {
+        "prompt": "Generate a personalized skincare routine based on skin analysis,",
+        "category": 3
+    },
+    {
+        "prompt": "Book a reservation at a cozy bed and breakfast for a weekend retreat.",
+        "category": 2
+    },
+    {
+        "prompt": "{Book a rental car for the weekend.},",
+        "category": 2
+    },
+    {
+        "prompt": "Assist me in finding a reputable online coding bootcamp.",
+        "category": 2
+    },
+    {
+        "prompt": "Consider your responses to external validation and recognition for achievements.",
+        "category": 4
+    },
+    {
+        "prompt": "{Recommend a new TV series to watch on Netflix.},",
+        "category": 2
+    },
+    {
+        "prompt": "Translate a series of facial expressions into emotional descriptions.",
+        "category": 3
+    },
+    {
+        "prompt": "{Identify faces in a series of photographs and group them},",
+        "category": 3
+    },
+    {
+        "prompt": "Examine your thoughts on balancing work and personal life.",
+        "category": 4
+    },
+    {
+        "prompt": "Analyze a series of demographic data and predict future population growth.",
+        "category": 3
+    },
+    {
+        "prompt": "{Locate a certified electrician for house wiring.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Check if a product is available for purchase on Amazon.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Produce a lifelike rendering of a historical figure},",
+        "category": 3
+    },
+    {
+        "prompt": "{Identify and label different architectural styles in a cityscape},",
+        "category": 3
+    },
+    {
+        "prompt": "{Recommend a hiking trail with beautiful views.},",
+        "category": 2
+    },
+    {
+        "prompt": "Acknowledge your responses to moments of vulnerability and shame.",
+        "category": 4
+    },
+    {
+        "prompt": "{Design a new user interface for a mobile application},",
+        "category": 3
+    },
+    {
+        "prompt": "Check the weather forecast for tomorrow morning in London.",
+        "category": 2
+    },
+    {
+        "prompt": "{Book a table for two at the nearest sushi restaurant.},",
+        "category": 2
+    },
+    {
+        "prompt": "Balance on a seesaw while juggling balls.",
+        "category": 1
+    },
+    {
+        "prompt": "{Create dynamic visual effects for a music video},",
+        "category": 3
+    },
+    {
+        "prompt": "Bounce a ball across a series of narrow planks.",
+        "category": 1
+    },
+    {
+        "prompt": "Create a deepfake video of a famous celebrity singing a new song.",
+        "category": 3
+    },
+    {
+        "prompt": "{Analyze and classify different types of food in images},",
+        "category": 3
+    },
+    {
+        "prompt": "Generate realistic audio of a dog barking for a specified duration.",
+        "category": 3
+    },
+    {
+        "prompt": "{Identify and label different geological formations in satellite images},",
+        "category": 3
+    },
+    {
+        "prompt": "Set up a meeting with my team for next week.",
+        "category": 2
+    },
+    {
+        "prompt": "Generate animated avatars for a social media platform,",
+        "category": 3
+    },
+    {
+        "prompt": "{Help me find a professional photographer for a family portrait.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Buy tickets for a concert next month.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Produce a visual representation of a data set},",
+        "category": 3
+    },
+    {
+        "prompt": "{Create a stop-motion animation sequence},",
+        "category": 3
+    },
+    {
+        "prompt": "Research and summarize the latest advancements in artificial intelligence.",
+        "category": 2
+    },
+    {
+        "prompt": "Tightrope walk over a pit of snakes.",
+        "category": 1
+    },
+    {
+        "prompt": "{Recommend a new workout routine for building muscle.},",
+        "category": 2
+    },
+    {
+        "prompt": "Generate a lifelike animation of a historical event.",
+        "category": 3
+    },
+    {
+        "prompt": "{Analyze satellite images to track deforestation},",
+        "category": 3
+    },
+    {
+        "prompt": "Analyze microbiological samples in a scientific study,",
+        "category": 3
+    },
+    {
+        "prompt": "Describe a situation where you exhibited self-control.",
+        "category": 4
+    },
+    {
+        "prompt": "Tie-dye a t-shirt with vibrant colors.",
+        "category": 1
+    },
+    {
+        "prompt": "{Explore vacation rental options in Hawaii.},",
+        "category": 2
+    },
+    {
+        "prompt": "Describe how you express empathy towards others in need.",
+        "category": 4
+    },
+    {
+        "prompt": "Identify your responses to feelings of fear and insecurity.",
+        "category": 4
+    },
+    {
+        "prompt": "Recognize your susceptibility to burnout.",
+        "category": 4
+    },
+    {
+        "prompt": "Identify a moment when you exhibited vulnerability in front of others.",
+        "category": 4
+    },
+    {
+        "prompt": "{Assist in creating a budget spreadsheet.},",
+        "category": 2
+    },
+    {
+        "prompt": "Identify your psychological needs and how they influence your actions.",
+        "category": 4
+    },
+    {
+        "prompt": "Develop an interactive simulation of a human settlement on Mars.",
+        "category": 3
+    },
+    {
+        "prompt": "Reflect on your approach to managing time and priorities.",
+        "category": 4
+    },
+    {
+        "prompt": "{Order a birthday cake for a celebration.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Identify different species of birds in a set of photographs},",
+        "category": 3
+    },
+    {
+        "prompt": "Book tickets for a movie screening at the cinema tonight.",
+        "category": 2
+    },
+    {
+        "prompt": "Assist me in booking a flight for a last-minute business trip.",
+        "category": 2
+    },
+    {
+        "prompt": "Identify a moment when you experienced a sense of awe.",
+        "category": 4
+    },
+    {
+        "prompt": "Reflect on your attitude towards seeking help and support.",
+        "category": 4
+    },
+    {
+        "prompt": "Analyze a series of geological formations and predict potential mineral deposits.",
+        "category": 3
+    },
+    {
+        "prompt": "{Generate a detailed architectural plan for a building},",
+        "category": 3
+    },
+    {
+        "prompt": "Think about your emotional triggers and how you manage them.",
+        "category": 4
+    },
+    {
+        "prompt": "{Produce an animated short film based on a script},",
+        "category": 3
+    },
+    {
+        "prompt": "Show me the top-rated hiking trails in Yosemite National Park.",
+        "category": 2
+    },
+    {
+        "prompt": "{Recognize and translate foreign text in images},",
+        "category": 3
+    },
+    {
+        "prompt": "Help me research the best camera equipment for amateur photographers.",
+        "category": 2
+    },
+    {
+        "prompt": "{Guide me through upgrading my smartphone software.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Develop a computer-generated simulation of a cityscape},",
+        "category": 3
+    },
+    {
+        "prompt": "Check if there are any flight delays on my upcoming trip to New York.",
+        "category": 2
+    },
+    {
+        "prompt": "Create a realistic simulation of a thunderstorm complete with audio effects.",
+        "category": 3
+    },
+    {
+        "prompt": "{Identify and track vehicles in traffic camera footage},",
+        "category": 3
+    },
+    {
+        "prompt": "{Assist in planning a weekend getaway to a beach destination.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Book an appointment with a financial advisor.},",
+        "category": 2
+    },
+    {
+        "prompt": "Book tickets for a live concert happening in my city next weekend.",
+        "category": 2
+    },
+    {
+        "prompt": "{Recognize and label different types of plants in images},",
+        "category": 3
+    },
+    {
+        "prompt": "Reflect on how you navigate social expectations and pressures.",
+        "category": 4
+    },
+    {
+        "prompt": "Develop a detailed infographic illustrating the human digestive system.",
+        "category": 3
+    },
+    {
+        "prompt": "{Guide me through setting up a smart home system.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Generate a virtual tour of a historical landmark},",
+        "category": 3
+    },
+    {
+        "prompt": "{Research the history of ancient civilizations.},",
+        "category": 2
+    },
+    {
+        "prompt": "Check the availability of rental bikes in the city.",
+        "category": 2
+    },
+    {
+        "prompt": "{Create a photorealistic rendering of an interior design},",
+        "category": 3
+    },
+    {
+        "prompt": "Reflect on a situation where you felt a deep sense of connection to nature.",
+        "category": 4
+    },
+    {
+        "prompt": "Understand your self-talk and how it influences you.",
+        "category": 4
+    },
+    {
+        "prompt": "Describe a situation where you were confident in your abilities.",
+        "category": 4
+    },
+    {
+        "prompt": "Find a tutorial on DIY home decor.",
+        "category": 2
+    },
+    {
+        "prompt": "Help me plan a surprise anniversary dinner for my spouse.",
+        "category": 2
+    },
+    {
+        "prompt": "{Create a concept art for a new product design},",
+        "category": 3
+    },
+    {
+        "prompt": "Identify a moment when you were able to forgive someone.",
+        "category": 4
+    },
+    {
+        "prompt": "Acknowledge your level of self-discipline in daily life.",
+        "category": 4
+    },
+    {
+        "prompt": "{Generate a virtual walkthrough of a proposed building design},",
+        "category": 3
+    },
+    {
+        "prompt": "{Search for reviews of the latest video game release.},",
+        "category": 2
+    },
+    {
+        "prompt": "Generate a personalized cooking tutorial based on dietary restrictions,",
+        "category": 3
+    },
+    {
+        "prompt": "{Find a reputable plumber for a leaking faucet.},",
+        "category": 2
+    },
+    {
+        "prompt": "Describe how you cope with difficult or traumatic memories.",
+        "category": 4
+    },
+    {
+        "prompt": "Order a monthly subscription box for gourmet snacks.",
+        "category": 2
+    },
+    {
+        "prompt": "{Analyze CCTV footage to track movements of individuals},",
+        "category": 3
+    },
+    {
+        "prompt": "Acknowledge your responses to situations where you feel threatened.",
+        "category": 4
+    },
+    {
+        "prompt": "Reflect on a moment when you exhibited patience in a challenging situation.",
+        "category": 4
+    },
+    {
+        "prompt": "{Generate a painting based on a description of a serene beach scene},",
+        "category": 3
+    },
+    {
+        "prompt": "Analyze the grooming habits of animals in a wildlife documentary,",
+        "category": 3
+    },
+    {
+        "prompt": "Translate a series of sports plays into written analyses.",
+        "category": 3
+    },
+    {
+        "prompt": "{Check stock prices for Apple Inc.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Create an animated infographic for a presentation},",
+        "category": 3
+    },
+    {
+        "prompt": "{Identify objects in a thermal imaging video},",
+        "category": 3
+    },
+    {
+        "prompt": "{Provide instructions on how to change a flat tire.},",
+        "category": 2
+    },
+    {
+        "prompt": "Describe a time when you felt proud of yourself.",
+        "category": 4
+    },
+    {
+        "prompt": "Guide me through setting up a home office for remote work.",
+        "category": 2
+    },
+    {
+        "prompt": "Reflect on a time when you faced a major setback.",
+        "category": 4
+    },
+    {
+        "prompt": "Analyze your feelings of guilt and how you cope with them.",
+        "category": 4
+    },
+    {
+        "prompt": "{Help me create a weekly meal plan.},",
+        "category": 2
+    },
+    {
+        "prompt": "Give me a list of groceries to buy for a week's worth of meals.",
+        "category": 2
+    },
+    {
+        "prompt": "{Recognize and organize various types of vehicles in photographs},",
+        "category": 3
+    },
+    {
+        "prompt": "Create a realistic animation of a robot performing a complex task.",
+        "category": 3
+    },
+    {
+        "prompt": "Slide down a waterslide and perform a backflip.",
+        "category": 1
+    },
+    {
+        "prompt": "Help me choose a new paint color for my bedroom.",
+        "category": 2
+    },
+    {
+        "prompt": "Reflect on your perception of inner strength and perseverance.",
+        "category": 4
+    },
+    {
+        "prompt": "{Locate the nearest car wash that offers detailing services.},",
+        "category": 2
+    },
+    {
+        "prompt": "Translate a series of baby cries into written explanations.",
+        "category": 3
+    },
+    {
+        "prompt": "Reflect on how you prioritize self-care.",
+        "category": 4
+    },
+    {
+        "prompt": "{Order a bouquet of flowers for Mother's Day.},",
+        "category": 2
+    },
+    {
+        "prompt": "Acknowledge your ability to regulate emotions in difficult situations.",
+        "category": 4
+    },
+    {
+        "prompt": "Help me find a local farmer's market for fresh produce.",
+        "category": 2
+    },
+    {
+        "prompt": "{Produce a realistic animated character for a video game},",
+        "category": 3
+    },
+    {
+        "prompt": "Generate animations for a children's book,",
+        "category": 3
+    },
+    {
+        "prompt": "Ride a rollercoaster at an amusement park.",
+        "category": 1
+    },
+    {
+        "prompt": "{List upcoming concerts in the area.},",
+        "category": 2
+    },
+    {
+        "prompt": "Describe how you handle conflicts with grace and understanding.",
+        "category": 4
+    },
+    {
+        "prompt": "Recommend a good book to read based on my favorite genres.",
+        "category": 2
+    },
+    {
+        "prompt": "Show me the latest updates on COVID-19 vaccination distribution.",
+        "category": 2
+    },
+    {
+        "prompt": "Slide down a snowy slope on a sled.",
+        "category": 1
+    },
+    {
+        "prompt": "Recommend a meditation app for reducing stress and anxiety.",
+        "category": 2
+    },
+    {
+        "prompt": "Identify a time when you felt enlightened or inspired.",
+        "category": 4
+    },
+    {
+        "prompt": "Identify a moment when you felt truly connected to someone.",
+        "category": 4
+    },
+    {
+        "prompt": "{Recommend a new podcast to listen to during commutes.},",
+        "category": 2
+    },
+    {
+        "prompt": "{Assist in updating my resume.},",
+        "category": 2
+    },
+    {
+        "prompt": "Guide me through making a DIY terrarium for indoor plants.",
+        "category": 2
+    },
+    {
+        "prompt": "Analyze a series of sleep patterns and recommend improvements.",
+        "category": 3
+    }
+]
