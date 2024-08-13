@@ -1,5 +1,5 @@
 ## About us
-This is the code of paper "Defining Boundaries: A Spectrum of Task Feasibility for Large Language Models". 
+This is the code of paper ["Defining Boundaries: A Spectrum of Task Feasibility for Large Language Models"](https://arxiv.org/abs/2408.05873). 
 
 In this paper: 
 - We systematically conceptualize infeasible tasks for LLMs, providing formal definitions and categorizations that cover a spectrum of related hallucinations. 
